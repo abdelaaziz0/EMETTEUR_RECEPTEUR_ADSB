@@ -13,7 +13,7 @@ L'objectif principal est de mettre en pratique les concepts étudiés en **commu
 
 ## 🔧 Prérequis
 📌 **Logiciel** : MATLAB avec les Toolboxes **Signal Processing** et **Communications**
-📌 **Matériel** : Un récepteur SDR compatible avec le 1090 MHz (ex : RTL-SDR)
+
 📌 **Connaissances** : Modulation, DSP, synchronisation en télécommunications
 
 ---
